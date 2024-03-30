@@ -1,3 +1,7 @@
+### Making my primary app in React js
+
+So here is my first app which I was practicing to make a SPA app which is more practical type of web app in recent years
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
